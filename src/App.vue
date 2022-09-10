@@ -18,7 +18,7 @@
     <router-view />
   </header>
 
-  <!--  footer onthe  bottom of the page -->
+  <!--  footer on the bottom of the page -->
   <footer class="bottom-0">
     <div class="bg-gray-600 py-6 px-6 m-0 absolute bottom w-full">
       <img

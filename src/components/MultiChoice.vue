@@ -12,7 +12,7 @@ export default {
 
 <template>
   <!-- event handling -->
-  <span> CHOOSE YOUR FONT: {{ font }}</span>
+  <span class="font-bold"> CHOOSE YOUR FONT: {{ font }}</span>
   <select class="p-2 text-black rounded-2xl" v-model="font">
     <option value="">Please select your font:</option>
     <br />

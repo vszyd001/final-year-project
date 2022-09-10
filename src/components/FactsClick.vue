@@ -20,7 +20,7 @@ export default {
           'People in age group 65 and above are the group with the highest prevalence of disabilities in United States [27].'
         )
       "
-      class="shadow-inner p-10 m-3 rounded-xl bg-gray-700"
+      class="shadow-inner px-8 py-4 m-3 rounded-3xl text-lg bg-gray-700"
     >
       Fact #1
     </button>
@@ -30,7 +30,7 @@ export default {
           'More than 1 billion people worldwide suffer from variety of disabilities [1].'
         )
       "
-      class="rounded-xl p-10 m-3 bg-gray-700"
+      class="text-lg rounded-3xl px-8 py-4 m-3 bg-gray-700"
     >
       Fact #2
     </button>
@@ -40,7 +40,7 @@ export default {
           'Disability does not have to be always visible and noticable at first glance [12].'
         )
       "
-      class="p-10 m-3 rounded-xl bg-gray-700"
+      class="px-8 py-4 m-3 rounded-3xl text-lg bg-gray-700"
     >
       Fact #3
     </button>

@@ -22,7 +22,7 @@
   <div
     class="shadow-xl rounded-full relative w-16 h-16 text-center bg-yellow-400 hover:scale-150 hover:bg-yellow-500 float-left m-20"
   >
-    <div class="text-4xl text-black absolute top-3 right-7">!</div>
+    <div class="text-4xl text-black absolute top-3 right-6">!</div>
   </div>
   <!-- section 1 -->
   <section>
